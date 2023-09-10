@@ -1,0 +1,15 @@
+# Hostel-Managment-System---Using-C-with-MySQL-database-
+
+![Screenshot (581)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/113b8d67-d464-4272-af36-2f605efd7fdf)
+![Screenshot (580)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/3085bf6e-9f8a-4bdf-9985-dcf2a77b6201)
+![Screenshot (579)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/d3fb9bd5-5f7d-4a9a-8f43-8e87111a7dea)
+![Screenshot (577)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/cc855efc-a91d-45ce-9930-8639566ce308)
+![Screenshot (576)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/5575b118-3d6a-4de6-b546-acccfa272586)
+![7](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/bdf37d58-28a4-4977-a750-6ff09ebfdda0)
+![4](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/8052cc98-4146-430c-896c-f087e7b7803b)
+![3](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/182f163f-0807-44ea-b7c1-b2eb9860d4fa)
+![2](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/356393bc-abe4-42ce-a195-189abe58b963)
+![1](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/36cf341b-59eb-4e80-8ee9-b126d696a34b)
+![Screenshot (584)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/14e47c12-ea8c-41cb-9f24-c6cd895cb81f)
+![Screenshot (583)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/5939440d-06f1-4578-a008-c43806463d08)
+![Screenshot (582)](https://github.com/hey-its-d2t2/Hostel-Managment-System---Using-C-with-MySQL-database-/assets/63626210/4f02a1ef-c0bb-4159-85fc-ab26f3707d8e)
